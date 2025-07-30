@@ -25,7 +25,7 @@ const rodrigoTejeda = {
     fullName: "Juan Rodrigo Tejeda Riojas",
     role: "Full Stack Developer & System Engineer",
     pronouns: "he/him",
-    location: "Lambayeque, Perú 🇵🇪",
+    location: "Lima , Perú 🇵🇪",
     
     expertise: {
         primary: "Java Ecosystem & Enterprise Solutions",
