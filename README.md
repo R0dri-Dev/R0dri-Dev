@@ -50,7 +50,6 @@ const rodrigoTejeda = {
     education: {
         degree: "Ingeniería de Sistemas",
         university: "Universidad Tecnológica del Perú (UTP) 🎓",
-        graduation: "2025",
         certifications: ["Oracle Java", "Spring Professional (in progress)"]
     },
     
