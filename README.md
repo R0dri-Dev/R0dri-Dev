@@ -837,7 +837,7 @@ Video llamada programada
 
 **⭐️ From [R0dri-Dev](https://github.com/R0dri-Dev) with ❤️ and lots of ☕**
 
-*Última actualización: Agoato 2025*  
+*Última actualización: Agosto 2025*  
 *Made with passion in Lima, Perú 🇵🇪*
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
