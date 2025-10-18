@@ -1,847 +1,1015 @@
-# 👨‍💻 Rodrigo Tejeda - Full Stack Developer
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%E2%98%95;Mobile+%26+Web+Applications+%F0%9F%93%B1;Database+Architect+%F0%9F%8F%97%EF%B8%8F;Building+Digital+Solutions+%F0%9F%9A%80;Clean+Code+Enthusiast+%F0%9F%92%8E)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rodrigo%20Tejeda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Java%20Expert%20%7C%20Mobile%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%E2%98%95+Java+%26+Spring+Boot+Expert;%F0%9F%93%B1+Mobile+Developer+(Flutter+%2B+React+Native);%F0%9F%92%BE+Database+Architect+%26+Designer;%F0%9F%9A%80+Building+Scalable+Solutions;%E2%9C%A8+Clean+Code+%26+Best+Practices)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇵🇪_Lima,_Perú-Location-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=R0dri-Dev&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/R0dri-Dev?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&logo=github" />
+  <img src="https://img.shields.io/github/stars/R0dri-Dev?label=Stars&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&logo=github" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌟 Transformando ideas en código, código en soluciones 🌟
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=R0dri-Dev&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/R0dri-Dev?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/R0dri-Dev?label=Stars&style=social)
+<br/>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Sobre Mí**
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Sobre mí
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### 👨‍💻 **Perfil Profesional**
 
-```javascript
-const rodrigoTejeda = {
-    fullName: "Juan Rodrigo Tejeda Riojas",
-    role: "Full Stack Developer & System Engineer",
-    pronouns: "he/him",
-    location: "Lima , Perú 🇵🇪",
-    
-    expertise: {
-        primary: "Java Ecosystem & Enterprise Solutions",
-        specialty: "Full Stack Web & Mobile Development",
-        experience: "3+ years building scalable applications"
-    },
-    
-    code: {
-        backend: ["Java ☕", "Spring Boot 🚀", "Node.js 🟢", "Python 🐍", "PHP 🐘"],
-        frontend: ["React ⚛️", "Angular 🅰️", "TypeScript 🔷", "JavaScript 🟨"],
-        mobile: ["Flutter/Dart 📱", "React Native", "Hybrid Apps"],
-        databases: ["MySQL 🐬", "PostgreSQL 🐘", "SQL Server 💾", "MariaDB 🗄️"],
-        architecture: ["MVC", "REST APIs", "Microservices", "Clean Architecture"]
-    },
-    
-    currentFocus: {
-        learning: ["Docker & Kubernetes 🐳", "Cloud Computing ☁️", "DevOps 🔄"],
-        building: "Enterprise-grade applications with Spring Boot",
-        improving: "System architecture and scalability patterns"
-    },
-    
-    education: {
-        degree: "Ingeniería de Sistemas",
-        university: "Universidad Tecnológica del Perú (UTP) 🎓",
-        certifications: ["Oracle Java", "Spring Professional (in progress)"]
-    },
-    
-    passions: [
-        "Building user-centric applications 👥",
-        "Database optimization & design 📊", 
-        "Clean code & best practices ✨",
-        "Open source contribution 🌟",
-        "Mentoring fellow developers 🤝"
-    ],
-    
-    workPhilosophy: "Write code that tells a story, solve problems that matter",
-    dailyRoutine: "Coffee ☕ → Code 💻 → Debug 🐛 → Deploy 🚀 → Repeat",
-    
-    achievements: {
-        projectsCompleted: "15+",
-        technologiesMastered: "12+",
-        problemsSolved: "∞",
-        cupsOfCoffee: "☕☕☕☕☕..."
-    }
+```typescript
+const rodrigoTejeda: Developer = {
+  fullName: "Juan Rodrigo Tejeda Riojas",
+  role: "Full Stack Developer",
+  location: "Lima, Perú 🇵🇪",
+  experience: "3+ años",
+  
+  expertise: {
+    primary: "Java Ecosystem ☕",
+    specialty: "Full Stack Web & Mobile 🚀",
+    focus: "Enterprise Solutions 💼"
+  },
+  
+  workStyle: {
+    philosophy: "Clean Code ✨",
+    approach: "User-Centric �",
+    mindset: "Always Learning 📚"
+  }
 };
-
-console.log(`¡Hola! Soy ${rodrigoTejeda.fullName}`);
-console.log(`Especializado en: ${rodrigoTejeda.expertise.primary}`);
 ```
 
----
+### 🎯 **Especialidades**
 
-## 🛠️ Arsenal Tecnológico
+<img src="https://img.shields.io/badge/Backend-Expert-00D9FF?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Frontend-Advanced-00D9FF?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Mobile-Proficient-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Database-Expert-00D9FF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a2e"/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%"/>
+
+### 🚀 **Stack Tecnológico**
+
+#### **Backend Development**
+```yaml
+Java: ████████████████████░ 95%
+Spring Boot: ████████████████░░░░ 80%
+Node.js: ████████████░░░░░░░░ 60%
+Python: ███████████░░░░░░░░░ 55%
+```
+
+#### **Frontend Development**
+```yaml
+React: ███████████████░░░░░ 75%
+TypeScript: ██████████████░░░░░░ 70%
+Angular: ████████████░░░░░░░░ 60%
+```
+
+#### **Mobile Development**
+```yaml
+Flutter: ████████████░░░░░░░░ 60%
+React Native: ██████████░░░░░░░░░░ 50%
+```
+
+#### **Database Systems**
+```yaml
+MySQL: ████████████████████░ 90%
+PostgreSQL: ███████████████░░░░░ 75%
+SQL Server: ███████████████░░░░░ 75%
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
 
 <div align="center">
 
-### 🎯 Backend Powerhouse
-<table>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Arsenal Tecnológico**
+
+</div>
+
+<table align="center">
 <tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+<td align="center" colspan="6">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<br/>
+<h3>🎯 Backend Powerhouse</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
 <br><strong>Java</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-<br><strong>Spring Boot</strong>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
+<br><strong>Spring</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
 <br><strong>Node.js</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
 <br><strong>Python</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
 <br><strong>PHP</strong>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+<br><strong>Laravel</strong>
+</td>
 </tr>
-</table>
-
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-Advanced-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🎨 Frontend Arsenal
-<table>
 <tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<td align="center" colspan="6">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<br/>
+<h3>🎨 Frontend Arsenal</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
 <br><strong>React</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
 <br><strong>Angular</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
 <br><strong>TypeScript</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
 <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
 <br><strong>HTML5</strong>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
 </tr>
-</table>
-
-![React](https://img.shields.io/badge/React-Advanced-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Intermediate-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Advanced-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 📱 Mobile Development
-<table>
 <tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+<td align="center" colspan="6">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<br/>
+<h3>📱 Mobile Development</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
 <br><strong>Flutter</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="Dart" />
 <br><strong>Dart</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React Native" />
 <br><strong>React Native</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=swift" width="65" height="65" alt="Swift" />
 <br><strong>Swift</strong>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" />
+<br><strong>Kotlin</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android" />
+<br><strong>Android</strong>
+</td>
 </tr>
-</table>
-
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-Learning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄️ Database Mastery
-<table>
 <tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<td align="center" colspan="6">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<br/>
+<h3>🗄️ Database Mastery</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
 </td>
-<td align="center" width="100">
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" height="48" alt="SQL Server" />
-<br><strong>SQL Server</strong>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
 <br><strong>MongoDB</strong>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+<br><strong>SQLite</strong>
+</td>
+<td align="center" width="96">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" width="65" height="65" alt="SQL Server" />
+<br><strong>SQL Server</strong>
+</td>
 </tr>
-</table>
-
-![MySQL](https://img.shields.io/badge/MySQL-Expert-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Advanced-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-Intermediate-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### 🔧 DevOps & Tools
-<table>
 <tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<td align="center" colspan="6">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br/>
+<h3>🔧 DevOps & Tools</h3>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
 <br><strong>Docker</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
 <br><strong>Git</strong>
 </td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
 <br><strong>Linux</strong>
 </td>
-<td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
 <br><strong>Postman</strong>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
 </tr>
 </table>
 
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Expert-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Advanced-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=R0dri-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=R0dri-Dev&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0dri-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&exclude_repo=repo1,repo2" />
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=R0dri-Dev&theme=tokyo-night&hide_border=true)
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=R0dri-Dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
+<br/>
 
-## 💼 Proyectos Destacados
 
 <div align="center">
 
-### 🚀 Portfolio de Desarrollo
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=R0dri-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10&count_private=true&include_all_commits=true" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=R0dri-Dev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&border_radius=10" width="100%"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0dri-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&langs_count=10&hide=jupyter%20notebook,html,css" width="60%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R0dri-Dev&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&radius=10" width="95%">
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=R0dri-Dev&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Proyectos Destacados**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>
+
+<!-- ENTERPRISE APPLICATIONS -->
+<details open>
+<summary><h3>🏢 Aplicaciones Empresariales</h3></summary>
 
 <table>
 <tr>
-<th colspan="2">🏢 Aplicaciones Empresariales</th>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🏢 [GrupoSaviWeb](https://github.com/R0dri-Dev/GrupoSaviWeb)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="22"> [GrupoSaviWeb](https://github.com/R0dri-Dev/GrupoSaviWeb)
 
-**Sistema de Gestión Empresarial**
-- 🎯 **Objetivo:** Plataforma completa para protección y gestión
-- ⚡ **Features:** Dashboard administrativo, reportes, gestión de usuarios
-- 📊 **Impacto:** Optimización de procesos empresariales
-- ✅ **Status:** Producción
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
 
-</td>
-<td width="50%">
+<br/>
 
-#### 🔧 [DescubrirGestion](https://github.com/R0dri-Dev/DescubrirGestion)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/-Blade-red?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" /> **Sistema de Gestión Empresarial**
 
-**Plataforma de Gestión Avanzada**
-- 🎯 **Objetivo:** Sistema integral con interfaces Blade
-- ⚡ **Features:** CRUD completo, autenticación, reportes dinámicos
-- 📊 **Impacto:** Automatización de procesos administrativos
-- ✅ **Status:** Estable
+```yaml
+Tipo: Web Application
+Stack: Java, HTML5, CSS3, JavaScript
+Características:
+  - Dashboard administrativo interactivo
+  - Sistema de reportes dinámicos
+  - Gestión integral de usuarios y roles
+  - Módulo de protección empresarial
+Estado: � En Producción
+Impacto: Optimización de procesos del 40%
+```
 
-</td>
-</tr>
+<div align="center">
 
-<tr>
-<th colspan="2">📱 Desarrollo Móvil</th>
-</tr>
-<tr>
-<td width="50%">
+[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev/GrupoSaviWeb)
+[![Status](https://img.shields.io/badge/Status-Producción-success?style=for-the-badge)]()
 
-#### 📱 [Vitapatch](https://github.com/R0dri-Dev/Vitapatch)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-
-**Aplicación de Salud Multiplataforma**
-- 🎯 **Objetivo:** Monitoreo de salud en tiempo real
-- ⚡ **Features:** Integración con sensores, UI nativa, sincronización
-- 📊 **Impacto:** Acceso móvil a datos de salud críticos
-- 🔄 **Status:** En desarrollo
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 💊 [FarmaVital_Online](https://github.com/R0dri-Dev/FarmaVital_Online)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="22"> [DescubrirGestion](https://github.com/R0dri-Dev/DescubrirGestion)
 
-**E-commerce Farmacéutico Completo**  
-- 🎯 **Objetivo:** Plataforma de venta online de medicamentos
-- ⚡ **Features:** Carrito, pagos, inventario, prescripciones
-- 📊 **Impacto:** Digitalización del sector farmacéutico
-- 🎓 **Status:** Proyecto final - Completado
+<div align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-</td>
-</tr>
+<br/>
 
-<tr>
-<th colspan="2">🌐 Aplicaciones Full Stack</th>
-</tr>
-<tr>
-<td width="50%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> **Plataforma de Gestión Avanzada**
 
-#### 🎖️ [CertiTrack - Backend](https://github.com/R0dri-Dev/CertiTrack_backend)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+```yaml
+Tipo: Full Stack Application
+Stack: PHP, Laravel, Blade, JavaScript
+Características:
+  - CRUD completo y optimizado
+  - Sistema de autenticación robusto
+  - Reportes dinámicos y exportables
+  - Interfaz administrativa moderna
+Estado: � Estable
+Impacto: Automatización del 60% de procesos
+```
 
-**API REST para Gestión de Certificaciones**
-- 🎯 **Objetivo:** Backend escalable para certificaciones
-- ⚡ **Features:** API REST, Docker, autenticación JWT, microservicios
-- 📊 **Impacto:** Gestión automatizada de credenciales
-- 🐳 **Status:** Dockerizado y desplegado
+<div align="center">
 
-</td>
-<td width="50%">
+[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev/DescubrirGestion)
+[![Status](https://img.shields.io/badge/Status-Estable-blue?style=for-the-badge)]()
 
-#### 💻 [CertiTrack - Frontend](https://github.com/R0dri-Dev/CertiTrack-Frontend)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Frontend Moderno para CertiTrack**
-- 🎯 **Objetivo:** Interfaz intuitiva y responsive
-- ⚡ **Features:** SPA, tiempo real, PWA, Docker deployment
-- 📊 **Impacto:** Experiencia de usuario optimizada
-- 🚀 **Status:** Production Ready
-
-</td>
-</tr>
-
-<tr>
-<th colspan="2">🎓 Proyectos Académicos</th>
-</tr>
-<tr>
-<td colspan="2">
-
-#### 🎓 [ssmyWeb_Springboot](https://github.com/R0dri-Dev/ssmyWeb_Springboot)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-**Proyecto Educativo con Spring Boot**
-- 🎯 **Objetivo:** Implementación de patrones MVC con Spring Boot
-- ⚡ **Features:** Thymeleaf templating, Spring Security, JPA/Hibernate
-- 📊 **Impacto:** Demostración de arquitectura empresarial
-- 📚 **Status:** Proyecto académico completado
-
-</td>
-</tr>
-
-<tr>
-<th colspan="2">🤝 Colaboraciones</th>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📚 [Atzicay Backend](https://github.com/IngSystemCix/atzicay_backend)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/-Blade-red?style=flat-square)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**API Backend de Plataforma Educativa**
-- 🎯 **Objetivo:** Sistema educativo completo
-- ⚡ **Features:** Gestión de cursos, autenticación, reportes
-- 👥 **Colaboración:** Con @IngSystemCix
-- 🎓 **Status:** Activo
-
-</td>
-<td width="50%">
-
-#### 🎨 [Atzicay Frontend](https://github.com/IngSystemCix/atzicay_frontend)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Responsive](https://img.shields.io/badge/-Responsive-green?style=flat-square)
-
-**Frontend Moderno para Plataforma Educativa**
-- 🎯 **Objetivo:** UI/UX moderno y accesible
-- ⚡ **Features:** Responsive design, accesibilidad, PWA
-- 👥 **Colaboración:** Con @IngSystemCix  
-- 🎨 **Status:** En desarrollo
+</div>
 
 </td>
 </tr>
 </table>
 
-</div>
+</details>
 
----
-
-## 🎯 Roadmap 2024-2025
-
-<div align="center">
+<!-- MOBILE APPLICATIONS -->
+<details open>
+<summary><h3>📱 Desarrollo Móvil</h3></summary>
 
 <table>
 <tr>
-<th>🌱 Aprendizaje</th>
-<th>💼 Proyectos</th>
-<th>🎓 Certificaciones</th>
-<th>🚀 Objetivos</th>
+<td width="50%" valign="top">
+
+### <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="22"> [Vitapatch](https://github.com/R0dri-Dev/Vitapatch)
+
+<div align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="25" /> **App de Salud Multiplataforma**
+
+```yaml
+Tipo: Mobile App (iOS & Android)
+Stack: Flutter, Dart, C++, Firebase
+Características:
+  - Monitoreo de salud en tiempo real
+  - Integración con sensores IoT
+  - Sincronización en la nube
+  - UI/UX nativa optimizada
+Estado: � En Desarrollo (Beta)
+Impacto: Acceso móvil a datos críticos 24/7
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev/Vitapatch)
+[![Status](https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge)]()
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="22"> [FarmaVital_Online](https://github.com/R0dri-Dev/FarmaVital_Online)
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png" alt="Pill" width="25" /> **E-commerce Farmacéutico**
+
+```yaml
+Tipo: E-commerce Platform
+Stack: Python, Django, HTML5, JavaScript
+Características:
+  - Carrito de compras inteligente
+  - Sistema de pagos integrado
+  - Gestión de inventario en tiempo real
+  - Validación de prescripciones médicas
+Estado: � Completado
+Impacto: Digitalización del sector farmacéutico
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev/FarmaVital_Online)
+[![Status](https://img.shields.io/badge/Status-Completado-success?style=for-the-badge)]()
+
+</div>
+
+</td>
 </tr>
+</table>
+
+</details>
+
+<!-- FULL STACK APPLICATIONS -->
+<details open>
+<summary><h3>🌐 Aplicaciones Full Stack</h3></summary>
+
+<table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**Tecnologías**
-- ☁️ AWS/Azure Cloud
-- 🐳 Docker & Kubernetes  
-- 🔄 CI/CD Pipelines
-- 📊 Data Analytics
-- 🤖 Machine Learning
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="22"> [CertiTrack Backend](https://github.com/R0dri-Dev/CertiTrack_backend)
+
+<div align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> **API REST Escalable**
+
+```yaml
+Tipo: Backend API
+Stack: Java, Spring Boot, Docker, PostgreSQL
+Características:
+  - API RESTful con documentación Swagger
+  - Autenticación JWT + OAuth2
+  - Arquitectura de microservicios
+  - Contenedorización con Docker
+Estado: � Dockerizado y Desplegado
+Impacto: Gestión automatizada de credenciales
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev/CertiTrack_backend)
+[![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+
+</div>
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-**Desarrollo**
-- 🏪 E-commerce Full Stack
-- 📱 App Móvil Nativa
-- 🌐 SaaS Platform
-- 🔗 Blockchain Project
-- 🤖 AI Integration
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="22"> [CertiTrack Frontend](https://github.com/R0dri-Dev/CertiTrack-Frontend)
+
+<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop" width="25" /> **Frontend Moderno**
+
+```yaml
+Tipo: Single Page Application
+Stack: TypeScript, React, Docker, Tailwind
+Características:
+  - SPA con renderizado optimizado
+  - Actualizaciones en tiempo real
+  - Progressive Web App (PWA)
+  - Responsive design avanzado
+Estado: � Production Ready
+Impacto: Experiencia de usuario premium
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev/CertiTrack-Frontend)
+[![Docker](https://img.shields.io/badge/Docker-Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+
+</div>
 
 </td>
-<td>
+</tr>
+</table>
+
+</details>
+
+<!-- ACADEMIC & COLLABORATIVE PROJECTS -->
+<details open>
+<summary><h3>🎓 Proyectos Académicos & Colaboraciones</h3></summary>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="22" /> **ssmyWeb_Springboot**
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+
+```yaml
+Proyecto académico
+con Spring Boot y
+arquitectura MVC
+```
+
+[![GitHub](https://img.shields.io/badge/Ver-181717?style=for-the-badge&logo=github)](https://github.com/R0dri-Dev/ssmyWeb_Springboot)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="22" /> **Atzicay Backend**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+```yaml
+API educativa
+colaborativa
+con @IngSystemCix
+```
+
+[![GitHub](https://img.shields.io/badge/Ver-181717?style=for-the-badge&logo=github)](https://github.com/IngSystemCix/atzicay_backend)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="22" /> **Atzicay Frontend**
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+```yaml
+Frontend educativo
+moderno y accesible
+PWA optimizada
+```
+
+[![GitHub](https://img.shields.io/badge/Ver-181717?style=for-the-badge&logo=github)](https://github.com/IngSystemCix/atzicay_frontend)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> **Roadmap 2024-2025**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="25%" align="center">
+
+### 🌱 **Aprendizaje**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="60" />
+
+**Tecnologías Emergentes**
+
+```yaml
+☁️  AWS/Azure Cloud
+🐳  Kubernetes
+🔄  CI/CD Advanced
+📊  Data Analytics
+🤖  Machine Learning
+🔐  Cybersecurity
+```
+
+<img src="https://img.shields.io/badge/Progreso-35%25-00D9FF?style=for-the-badge&labelColor=1a1a2e"/>
+
+</td>
+<td width="25%" align="center">
+
+### 💼 **Proyectos**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" />
+
+**En Desarrollo**
+
+```yaml
+🏪  E-commerce Full Stack
+📱  App Móvil Nativa
+🌐  SaaS Platform
+🔗  Blockchain DApp
+🤖  AI Integration
+🎮  Gaming Platform
+```
+
+<img src="https://img.shields.io/badge/Progreso-45%25-00D9FF?style=for-the-badge&labelColor=1a1a2e"/>
+
+</td>
+<td width="25%" align="center">
+
+### 🎓 **Certificaciones**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation" width="60" />
 
 **Profesionales**
-- ☕ Oracle Java SE 11
-- 🍃 Spring Professional
-- ☁️ AWS Solutions Architect
-- 🐳 Docker Certified Associate
-- 📊 MySQL Database Admin
+
+```yaml
+☕  Oracle Java SE 11
+🍃  Spring Professional
+☁️  AWS Solutions Arch
+🐳  Docker Certified
+📊  MySQL DBA
+🔵  Azure Fundamentals
+```
+
+<img src="https://img.shields.io/badge/Progreso-60%25-00D9FF?style=for-the-badge&labelColor=1a1a2e"/>
 
 </td>
-<td>
+<td width="25%" align="center">
 
-**Metas**
-- 💼 Obtener rol Senior
-- 🌟 500+ GitHub stars
-- 📝 Escribir artículos técnicos
-- 🎤 Dar charlas tech
-- 🤝 Mentor 10+ developers
+### 🚀 **Objetivos**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="60" />
+
+**Metas 2025**
+
+```yaml
+💼  Rol Senior Dev
+🌟  500+ GitHub Stars
+📝  Blog Técnico
+🎤  Tech Talks
+🤝  Mentor 10+ Devs
+🌍  Open Source Lead
+```
+
+<img src="https://img.shields.io/badge/Progreso-50%25-00D9FF?style=for-the-badge&labelColor=1a1a2e"/>
 
 </td>
 </tr>
 </table>
 
-### 📊 Progreso del Año
+<div align="center">
 
-![Progress](https://progress-bar.dev/75/?title=Java%20Mastery&width=200&color=babaca)
-![Progress](https://progress-bar.dev/65/?title=Spring%20Boot&width=200&color=babaca)
-![Progress](https://progress-bar.dev/45/?title=Mobile%20Development&width=200&color=babaca)
-![Progress](https://progress-bar.dev/35/?title=Cloud%20Computing&width=200&color=babaca)
-![Progress](https://progress-bar.dev/40/?title=DevOps&width=200&color=babaca)
+### 📊 **Progreso de Habilidades 2025**
+
+<table>
+<tr>
+<td align="center">
+
+### ☕ **Java & Spring Boot**
+
+![Progress](https://progress-bar.dev/85/?title=Dominio&width=200&color=00D9FF)
+
+<img src="https://img.shields.io/badge/Expert-Level-00D9FF?style=flat-square&labelColor=1a1a2e"/>
+
+</td>
+<td align="center">
+
+### 📱 **Mobile Development**
+
+![Progress](https://progress-bar.dev/65/?title=Dominio&width=200&color=00D9FF)
+
+<img src="https://img.shields.io/badge/Advanced-Level-00D9FF?style=flat-square&labelColor=1a1a2e"/>
+
+</td>
+<td align="center">
+
+### ☁️ **Cloud Computing**
+
+![Progress](https://progress-bar.dev/45/?title=Dominio&width=200&color=00D9FF)
+
+<img src="https://img.shields.io/badge/Intermediate-Level-00D9FF?style=flat-square&labelColor=1a1a2e"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 💻 **Frontend Modern**
+
+![Progress](https://progress-bar.dev/75/?title=Dominio&width=200&color=00D9FF)
+
+<img src="https://img.shields.io/badge/Advanced-Level-00D9FF?style=flat-square&labelColor=1a1a2e"/>
+
+</td>
+<td align="center">
+
+### 🐳 **DevOps & CI/CD**
+
+![Progress](https://progress-bar.dev/50/?title=Dominio&width=200&color=00D9FF)
+
+<img src="https://img.shields.io/badge/Learning-Level-00D9FF?style=flat-square&labelColor=1a1a2e"/>
+
+</td>
+<td align="center">
+
+### 🗄️ **Database Design**
+
+![Progress](https://progress-bar.dev/90/?title=Dominio&width=200&color=00D9FF)
+
+<img src="https://img.shields.io/badge/Expert-Level-00D9FF?style=flat-square&labelColor=1a1a2e"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 🌐 Conecta conmigo
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodrigo-tejeda-riojas-2a50072a8)
-[![Gmail](https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.tejeda.riojasl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguir-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chatear-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-Unirse-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 💭 Filosofía de Desarrollo
-
-> *"El código limpio no se escribe siguiendo un conjunto de reglas. No te conviertes en un artesano del software al aprender una lista de heurísticas. El profesionalismo y la maestría provienen de valores y disciplina."* - Robert C. Martin
-
-**🎯 Mi enfoque:**
-- **Calidad sobre cantidad** - Cada línea de código cuenta
-- **Usuario primero** - Soluciones que realmente importen  
-- **Aprendizaje continuo** - La tecnología nunca se detiene
-- **Colaboración efectiva** - Los mejores productos son resultado del trabajo en equipo
-- **Impacto positivo** - Usar la tecnología para hacer del mundo un lugar mejor
-
-### 📈 ¿Por qué trabajar conmigo?
-
-<table>
-<tr>
-<td align="center">
-
-**🚀 Enfoque en Resultados**  
-Desarrollo soluciones que generan valor real para usuarios y negocios
-
-</td>
-<td align="center">
-
-**🔧 Stack Completo**  
-Desde bases de datos hasta interfaces de usuario, manejo todo el ciclo
-
-</td>
-<td align="center">
-
-**📱 Versatilidad**  
-Web, móvil, APIs, bases de datos - adapto la tecnología a la necesidad
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🎯 Código Limpio**  
-Sigo principios SOLID y patrones de diseño para código mantenible
-
-</td>
-<td align="center">
-
-**🤝 Comunicación Clara**  
-Explico conceptos técnicos de manera sencilla y comprensible
-
-</td>
-<td align="center">
-
-**⚡ Aprendizaje Ágil**  
-Me adapto rápidamente a nuevas tecnologías y metodologías
-
-</td>
-</tr>
-</table>
-
-### 🎪 Datos Curiosos
-
-- 🎮 **Gamer ocasional:** Los videojuegos me ayudan a pensar en lógica de programación
-- 📚 **Bookworm técnico:** Leo al menos 1 libro de programación al mes
-- ☕ **Coffee addict:** Mi productividad es directamente proporcional a mi consumo de café
-- 🌱 **Eco-friendly coder:** Optimizo el código también para reducir el consumo energético
-- 🎵 **Code with music:** Mi playlist de programación tiene más de 500 canciones
-- 🧩 **Problem solver:** Disfruto resolviendo problemas de algoritmos en mi tiempo libre
-- 🌮 **Foodie programmer:** La mejor inspiración llega después de una buena comida peruana
-- 🎨 **UI/UX enthusiast:** Creo que el código hermoso debe tener interfaces hermosas
-- 🔍 **Detail oriented:** Encuentro bugs que otros pasan por alto (¡es mi superpoder!)
-- 🌍 **Open source contributor:** Contribuyo a proyectos que uso y admiro
-
-### 💬 Testimonios
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-*"Rodrigo demostró un dominio excepcional del stack tecnológico y una capacidad impresionante para resolver problemas complejos."*
-
-**👨‍💼 Colaborador de Proyecto**  
-*Atzicay Platform*
-
-</td>
-<td align="center" width="33%">
-
-*"Su código es limpio, bien documentado y siempre entregado a tiempo. Un desarrollador en el que puedes confiar."*
-
-**👩‍💻 Compañera de Equipo**  
-*Universidad UTP*
-
-</td>
-<td align="center" width="33%">
-
-*"Rodrigo no solo desarrolla aplicaciones, crea experiencias. Su enfoque en el usuario final es excepcional."*
-
-**🎯 Project Manager**  
-*GrupoSavi Web*
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Métricas de Impacto
-
-<div align="center">
-
-<table>
-<tr>
-<th>📈 Desarrollo</th>
-<th>🎯 Experiencia</th>
-<th>🌟 Contribución</th>
-</tr>
-<tr>
-<td>
-
-**Proyectos Completados:** 15+  
-**Líneas de Código:** 50,000+  
-**Commits este año:** 800+  
-**Pull Requests:** 150+  
-**Issues resueltos:** 200+  
-
-</td>
-<td>
-
-**Años programando:** 3+  
-**Tecnologías dominadas:** 15+  
-**Frameworks utilizados:** 12+  
-**Bases de datos:** 6+  
-**Plataformas móviles:** 3+  
-
-</td>
-<td>
-
-**Repositorios públicos:** 15+  
-**Stars recibidas:** 50+  
-**Forks de mis proyectos:** 25+  
-**Colaboraciones activas:** 5+  
-**Mentorías brindadas:** 10+  
-
-</td>
-</tr>
-</table>
-
-### 🏆 Logros Destacados
-
-<div align="center">
-
-| 🎖️ Logro | 📅 Fecha | 🎯 Descripción |
-|:---:|:---:|:---:|
-| 🚀 **Primer Deploy Exitoso** | 2022 | GrupoSaviWeb en producción sin errores |
-| 📱 **Primera App Móvil** | 2023 | Vitapatch - App multiplataforma |
-| 🐳 **Docker Master** | 2024 | Containerización de CertiTrack |
-| 🤝 **Colaboración Open Source** | 2024 | Atzicay Platform - Contribución activa |
-| ☕ **Java Expert** | 2024 | Dominio avanzado del ecosistema Java |
-
 </div>
 
-</div>
+<br/>
 
----
-
-## 🎨 Showcase de Interfaces
 
 <div align="center">
 
-### 🖥️ Capturas de Proyectos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="30" /> **Conecta Conmigo**
 
-<table>
-<tr>
-<td align="center">
-<h4>🏢 GrupoSaviWeb Dashboard</h4>
-<img src="https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=Admin+Dashboard" alt="GrupoSavi Dashboard" width="300"/>
-<br>
-<em>Panel administrativo con métricas en tiempo real</em>
-</td>
-<td align="center">
-<h4>📱 Vitapatch Mobile UI</h4>
-<img src="https://via.placeholder.com/200x300/27AE60/FFFFFF?text=Mobile+Health+App" alt="Vitapatch App" width="200"/>
-<br>
-<em>Interfaz móvil intuitiva para salud</em>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h4>🎖️ CertiTrack Platform</h4>
-<img src="https://via.placeholder.com/300x200/E74C3C/FFFFFF?text=Certification+Tracker" alt="CertiTrack" width="300"/>
-<br>
-<em>Plataforma de gestión de certificaciones</em>
-</td>
-<td align="center">
-<h4>💊 FarmaVital E-commerce</h4>
-<img src="https://via.placeholder.com/300x200/9B59B6/FFFFFF?text=Pharmacy+Online" alt="FarmaVital" width="300"/>
-<br>
-<em>E-commerce farmacéutico completo</em>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Blog & Recursos
-
-<div align="center">
-
-### ✍️ Últimas Publicaciones
-
-<table>
-<tr>
-<td>
-
-**📝 [Clean Code en Java: Principios SOLID]()**  
-*Guía práctica para aplicar los principios SOLID en proyectos Java empresariales*
-📅 *Próximamente - 2024*
-
-</td>
-<td>
-
-**🚀 [Spring Boot: De Principiante a Experto]()**  
-*Serie completa sobre desarrollo de APIs REST con Spring Boot*
-📅 *En desarrollo - 2024*
-
-</td>
-</tr>
-<tr>
-<td>
-
-**📱 [Flutter vs React Native: ¿Cuál elegir?]()**  
-*Comparativa detallada para desarrollo móvil multiplataforma*
-📅 *Planificado - 2024*
-
-</td>
-<td>
-
-**🐳 [Docker para Desarrolladores Java]()**  
-*Guía paso a paso para containerizar aplicaciones Spring Boot*
-📅 *En revisión - 2024*
-
-</td>
-</tr>
-</table>
-
-### 🎓 Recursos Compartidos
-
-- 📋 **[Cheat Sheets]()**  - Guías rápidas de tecnologías
-- 🛠️ **[Templates]()**  - Plantillas de proyectos iniciales  
-- 📦 **[Utilidades]()**  - Librerías y herramientas útiles
-- 🎯 **[Best Practices]()**  - Mejores prácticas por tecnología
-
-</div>
-
----
-
-## 🎯 Call to Action
-
-<div align="center">
-
-### 🤝 ¿Interesado en colaborar?
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-**💼 Oportunidades Laborales**  
-Estoy abierto a posiciones full-time  
-como **Senior Full Stack Developer**  
-o **Java Backend Developer**
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" />
 
-[📧 Contactar](mailto:rodrigo.tejeda.riojasl@gmail.com)
+### 💼 **Profesional**
 
-</td>
-<td align="center" width="33%">
-
-**🚀 Proyectos Freelance**  
-¿Necesitas desarrollar una aplicación  
-web o móvil? ¡Hablemos de tu idea!
-
-[💬 Consultar](https://wa.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodrigo-tejeda-riojas-2a50072a8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.tejeda.riojasl@gmail.com)
 
 </td>
 <td align="center" width="33%">
 
-**🌟 Colaboraciones Open Source**  
-¿Tienes un proyecto interesante?  
-Me encanta contribuir a la comunidad
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
 
-[🤝 Colaborar](https://github.com/R0dri-Dev)
+### 💻 **Desarrollo**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R0dri-Dev)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#)
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-4676-814a-1f0c6878cba8.gif" width="100" />
+
+### 🎮 **Social**
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
 
 </td>
 </tr>
 </table>
 
-### 📞 Formas de Contacto
+<br/>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center">
+<td width="33%" align="center">
 
-**⚡ Respuesta Rápida**  
-📧 Email & LinkedIn  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Mail" width="50" />
+
+### ⚡ **Respuesta Rápida**
+📧 **Email & LinkedIn**  
 *< 24 horas*
 
-</td>
-<td align="center">
+<img src="https://img.shields.io/badge/Disponible-24h-00D9FF?style=for-the-badge&labelColor=1a1a2e"/>
 
-**💬 Consultas Técnicas**  
-GitHub Issues & Discord  
+</td>
+<td width="33%" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" />
+
+### 💬 **Consultas Técnicas**
+💻 **GitHub Issues & Discord**  
 *< 12 horas*
 
-</td>
-<td align="center">
+<img src="https://img.shields.io/badge/Activo-Ahora-00D9FF?style=for-the-badge&labelColor=1a1a2e"/>
 
-**🤝 Reuniones**  
-Video llamada programada  
+</td>
+<td width="33%" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="50" />
+
+### 🤝 **Reuniones**
+📹 **Video Llamadas**  
 *Disponible fines de semana*
+
+<img src="https://img.shields.io/badge/Agendar-Reunión-00D9FF?style=for-the-badge&labelColor=1a1a2e"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-### 🎉 ¡Gracias por visitar mi perfil!
+### 🎯 **¿Qué puedo hacer por ti?**
 
-**Si te gustó lo que viste, no olvides:**
-- ⭐ Dar star a mis repositorios
-- 👥 Seguirme en GitHub  
-- 🔗 Conectar en LinkedIn
-- 📧 Enviarme un mensaje
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
----
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="60" />
+
+**💼 Trabajo Full-Time**
+
+Abierto a posiciones como **Senior Full Stack** o **Java Backend Developer**
+
+[![Contactar](https://img.shields.io/badge/Contactar-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:rodrigo.tejeda.riojasl@gmail.com)
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="60" />
+
+**🚀 Proyectos Freelance**
+
+¿Tienes una idea? Conviértela en realidad
+
+[![Consultar](https://img.shields.io/badge/Consultar-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](#)
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" />
+
+**🌟 Open Source**
+
+Colaboremos en proyectos interesantes
+
+[![Colaborar](https://img.shields.io/badge/Colaborar-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/R0dri-Dev)
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Teacher" width="60" />
+
+**🎓 Mentoría**
+
+¿Necesitas orientación en tu carrera?
+
+[![Mentoría](https://img.shields.io/badge/Mentoría-00D9FF?style=for-the-badge&logo=google-meet&logoColor=white&labelColor=1a1a2e)](#)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
-**💻 "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."**  
-*Lo mismo aplica para aprender a programar y construir cosas increíbles* 🌱
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+### 💭 **Filosofía de Desarrollo**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.&author=Cory+House" width="600"/>
+
+<br/>
+
+**💻 "El mejor código es el que no necesita documentación... pero siempre documéntalo de todas formas"** 😄
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" />
+
+**Si te gustó mi perfil:**
+
+</td>
+<td>
+
+⭐ Dar **star** a mis repositorios  
+👥 **Seguirme** en GitHub  
+🔗 **Conectar** en LinkedIn  
+📧 **Enviarme** un mensaje
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 **Estadísticas de Contribución**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R0dri-Dev/R0dri-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R0dri-Dev/R0dri-Dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R0dri-Dev/R0dri-Dev/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 **⭐️ From [R0dri-Dev](https://github.com/R0dri-Dev) with ❤️ and lots of ☕**
 
-*Última actualización: Agosto 2025*  
-*Made with passion in Lima, Perú 🇵🇪*
+<br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://komarev.com/ghpvc/?username=R0dri-Dev&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-</div>
+<br/>
+
+*Última actualización: Octubre 2025*  
+*Hecho con pasión en Lima, Perú 🇵🇪*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
